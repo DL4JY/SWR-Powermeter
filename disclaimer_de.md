@@ -1,13 +1,3 @@
-SWR-Leistungsmesser
-
-SWR-Leistungsmesser mit großem Dynamikbereich, TFT-Display und Webserver auf ESP32.
-
-User_Setup.h & User_Setup_Select.h werden als Konfiguration für die TFT-Display-Bibliothek <TFT_eSPI.h> verwendet.
-
-Weitere Details finden Sie hier: https://cqsg.de/blog/ov-r14-bauprojekt-leistungs-swr-meter-bis-2-kw
-
-Kostenlose Nutzung für private und nichtkommerzielle Zwecke. Die kommerzielle Nutzung erfordert eine Genehmigung, wobei Kosten pro gebauter Einheit anfallen.
-
 Haftungsausschluss
 
 1. Allgemeiner Hinweis
@@ -29,5 +19,6 @@ Keine Gewährleistung: Ausdrücklich ausgeschlossen sind alle ausdrücklichen un
 Keine Haftung für Schäden: In keinem Fall hafte ich für direkte, indirekte, zufällige, besondere, exemplarische, Folge- oder Strafschäden (einschließlich, aber nicht beschränkt auf die Beschaffung von Ersatzwaren oder -dienstleistungen, Nutzungsausfall, Datenverlust oder entgangener Gewinn oder Betriebsunterbrechung), unabhängig von der Ursache und der Haftungstheorie, sei es aus Vertrag, verschuldensunabhängiger Haftung oder unerlaubter Handlung (einschließlich Fahrlässigkeit oder anderweitig), die sich in irgendeiner Weise aus der Nutzung dieser Software ergibt, selbst wenn auf die Möglichkeit solcher Schäden hingewiesen wurde.
 
 Keine Datenintegrität: Ich garantiere nicht, dass die Software frei von Fehlern, Viren oder anderen schädlichen Komponenten ist. Ich bin nicht verantwortlich für den Verlust oder die Beschädigung von Daten, die durch die Nutzung dieser Software entstehen.
+
 
 Sie sind auf sich allein gestellt. :-)
