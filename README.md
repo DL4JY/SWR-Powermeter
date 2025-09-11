@@ -21,5 +21,3 @@ find more details here:  https://cqsg.de/blog/ov-r14-bauprojekt-leistungs-swr-me
 Free to use for privat & non commercial use. Commercial use requires permits, with costs per build unit.
 
 disclaimer in English: https://github.com/DL4JY/SWR-Powermeter/blob/main/disclaimer_en.md
-
-disclaimer auf deutsch: https://github.com/DL4JY/SWR-Powermeter/blob/main/disclaimer_de.md
