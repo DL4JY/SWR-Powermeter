@@ -7,6 +7,11 @@ Weitere Details finden Sie hier: https://cqsg.de/blog/ov-r14-bauprojekt-leistung
 
 Kostenlose Nutzung für private und nichtkommerzielle Zwecke. Die kommerzielle Nutzung erfordert eine Genehmigung, wobei Kosten pro gebauter Einheit anfallen.
 
+Disclaimer auf deutsch: https://github.com/DL4JY/SWR-Powermeter/blob/main/disclaimer_de.md
+
+-----------------------------------------------------------------------------------------
+
+
 Wide dynamic Range SWR-Powermeter with TFT-Display and Webserver on ESP32
 
 User_Setup.h & User_Setup_Select.h are used as configuration for <TFT_eSPI.h> TFT display library
