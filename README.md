@@ -1,4 +1,12 @@
 # SWR-Powermeter
+SWR-Leistungsmesser mit großem Dynamikbereich, TFT-Display und Webserver auf ESP32-Basis.
+
+User_Setup.h & User_Setup_Select.h werden als Konfiguration für die TFT-Display-Bibliothek <TFT_eSPI.h> verwendet.
+
+Weitere Details finden Sie hier: https://cqsg.de/blog/ov-r14-bauprojekt-leistungs-swr-meter-bis-2-kw
+
+Kostenlose Nutzung für private und nichtkommerzielle Zwecke. Die kommerzielle Nutzung erfordert eine Genehmigung, wobei Kosten pro gebauter Einheit anfallen.
+
 Wide dynamic Range SWR-Powermeter with TFT-Display and Webserver on ESP32
 
 User_Setup.h & User_Setup_Select.h are used as configuration for <TFT_eSPI.h> TFT display library
