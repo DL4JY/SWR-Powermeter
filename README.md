@@ -1,6 +1,8 @@
 # SWR-Powermeter
 SWR-Leistungsmesser mit großem Dynamikbereich, TFT-Display und Webserver auf ESP32-Basis.
 
+Als Messkoppler verwende ich die Platine von Kurt, DJ0ABR siehe https://projects.dj0abr.de/doku.php?id=de:pwrswr:pwrswr_overview
+
 User_Setup.h & User_Setup_Select.h werden als Konfiguration für die TFT-Display-Bibliothek <TFT_eSPI.h> verwendet.
 
 Weitere Details finden Sie hier: https://cqsg.de/blog/ov-r14-bauprojekt-leistungs-swr-meter-bis-2-kw
@@ -13,6 +15,8 @@ Disclaimer auf deutsch: https://github.com/DL4JY/SWR-Powermeter/blob/main/discla
 
 
 Wide dynamic Range SWR-Powermeter with TFT-Display and Webserver on ESP32
+
+As SWR-bridge I am using the coupler from Kurt, DJ0ABR siehe https://projects.dj0abr.de/doku.php?id=de:pwrswr:pwrswr_overview.
 
 User_Setup.h & User_Setup_Select.h are used as configuration for <TFT_eSPI.h> TFT display library
 
